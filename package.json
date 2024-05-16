@@ -1,12 +1,10 @@
 {
   "name": "jenkinstest",
   "version": "1.0.0",
-  "description": "To test jenkins ",
+  "description": "To test jenkins",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "build": "gh-pages -d public"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
